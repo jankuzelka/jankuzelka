@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jan Kuželka
 
-<!--
-**jankuzelka/jankuzelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ / PHP Developer focused on cross-platform software, systems integration and web development.
 
-Here are some ideas to get you started:
+I build commercial software across desktop, mobile and web environments, with experience in C++, PHP, networking, cryptography, enterprise integrations and modern development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas
+
+- C / C++ — Windows, macOS, Linux, mobile
+- PHP / Nette / JavaScript / SQL
+- Cross-platform application development
+- Networking, email protocols and cryptography
+- REST / SOAP / SAP integrations
+- Docker and deployment
+- AI-assisted software development
+
+🌐 [kuzelka.dev](https://kuzelka.dev)
