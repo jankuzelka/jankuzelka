@@ -1,0 +1,18 @@
+{
+  "name": "non-breaking-text",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small TypeScript utility for language-aware non-breaking typography.",
+  "license": "MIT",
+  "author": "Jan Ku\u017eelka <jan@kuzelka.dev>",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "check": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.1"
+  }
+}
