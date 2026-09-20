@@ -4,6 +4,8 @@ C++ / PHP Developer focused on cross-platform software, systems integration and 
 
 I build commercial software across desktop, mobile and web environments, with experience in C++, PHP, networking, cryptography, enterprise integrations and AI-assisted development.
 
+Most of my commercial work is client-owned and not publicly available; this GitHub contains selected utilities, patches and publishable side work.
+
 ## Areas
 
 - C / C++ — Windows, macOS, Linux, mobile
