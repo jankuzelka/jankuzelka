@@ -29,3 +29,5 @@ Most of my commercial work is client-owned and not publicly available; this GitH
 
 - Website: [kuzelka.dev](https://kuzelka.dev)
 - LinkedIn: [linkedin.com/in/jankuzelka](https://www.linkedin.com/in/jankuzelka)
+
+[![Support my work](https://img.shields.io/badge/Support%20my%20work-2F81F7?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/jankuzelka)
