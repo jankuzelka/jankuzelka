@@ -1,33 +1,38 @@
 # Jan Kuželka
 
-C++ / PHP Developer focused on cross-platform software, systems integration and web development.
+**Software Engineer** focused on native and cross-platform applications, web and backend systems, and systems integration.
 
-I build commercial software across desktop, mobile and web environments, with experience in C++, PHP, networking, cryptography, enterprise integrations and AI-assisted development.
+I build and maintain commercial software across desktop, mobile and web platforms, with an emphasis on reliability, performance and long-term maintainability. My work spans encrypted communication, enterprise integrations, performance optimization and legacy system modernization, using AI-assisted tooling where appropriate.
 
 Most of my commercial work is client-owned and not publicly available; this GitHub contains selected utilities, patches and publishable side work.
 
 ## Areas
 
-- C / C++ — Windows, macOS, Linux, mobile
-- PHP / Nette / JavaScript / SQL
-- Cross-platform application development
+- Native and cross-platform application development
+- Web applications and backend services
+- Software architecture and legacy modernization
 - Networking, email protocols and cryptography
-- REST / SOAP / SAP integrations
-- Docker and deployment
-- AI-assisted software development
+- Enterprise integrations (REST, SOAP, SAP) and data processing
+- Performance optimization and debugging
+
+## Technical background
+
+- **Native & Cross-platform:** C / C++, Objective-C, Windows, macOS, iOS, Linux
+- **Web & Backend:** PHP, Nette, JavaScript, SQL
+- **Tools & Infrastructure:** Docker, deployment
+- **Development workflow:** AI-assisted development
 
 ## Selected experience
 
 - Cross-platform desktop and mobile applications
-- Secure communication and cryptography
-- Email protocols and messaging systems
-- Enterprise and B2B integrations
+- Secure communication, encryption and messaging systems
+- Enterprise and B2B systems with SAP integration
 - Web applications and internal tools
-- Legacy system modernization and migration
+- System integration and performance-critical components
 
 ## Links
 
 - Website: [kuzelka.dev](https://kuzelka.dev)
-- LinkedIn: [linkedin.com/in/jankuzelka](https://www.linkedin.com/in/jankuzelka)
+- LinkedIn: [linkedin.com/in/jan-kuzelka](https://www.linkedin.com/in/jan-kuzelka)
 
 [![Support my work](https://img.shields.io/badge/Support%20my%20work-2F81F7?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/jankuzelka)
