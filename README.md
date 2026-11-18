@@ -1,34 +1,24 @@
 # Jan Kuželka
 
-**Software Engineer** focused on native and cross-platform applications, web and backend systems, and systems integration.
+Software Engineer working across desktop, mobile and web - from native and cross-platform applications to backend systems and enterprise integrations.
 
-I build and maintain commercial software across desktop, mobile and web platforms, with an emphasis on reliability, performance and long-term maintainability. My work spans encrypted communication, enterprise integrations, performance optimization and legacy system modernization, using AI-assisted tooling where appropriate.
+I develop and maintain commercial software, with a focus on reliability, performance and long-term maintainability. My experience includes encrypted communication, networking, data processing and modernization of existing software. I also use AI-assisted tools as part of my development workflow.
 
-Most of my commercial work is client-owned and not publicly available; this GitHub contains selected utilities, patches and publishable side work.
+Most of my commercial work is client-owned and not publicly available; this GitHub contains selected utilities, patches and publishable side projects.
 
 ## Areas
 
-- Native and cross-platform application development
-- Web applications and backend services
-- Software architecture and legacy modernization
-- Networking, email protocols and cryptography
-- Enterprise integrations (REST, SOAP, SAP) and data processing
-- Performance optimization and debugging
+- Native and cross-platform desktop and mobile applications
+- Web applications and backend systems
+- Networking, secure communication and email protocols
+- Enterprise integrations and data processing
+- Software modernization, performance optimization and debugging
 
 ## Technical background
 
-- **Native & Cross-platform:** C / C++, Objective-C, Windows, macOS, iOS, Linux
+- **Native & Cross-platform:** C / C++, Objective-C - Windows, macOS, iOS, Linux
 - **Web & Backend:** PHP, Nette, JavaScript, SQL
-- **Tools & Infrastructure:** Docker, deployment
-- **Development workflow:** AI-assisted development
-
-## Selected experience
-
-- Cross-platform desktop and mobile applications
-- Secure communication, encryption and messaging systems
-- Enterprise and B2B systems with SAP integration
-- Web applications and internal tools
-- System integration and performance-critical components
+- **Integrations:** REST, SOAP, SAP
 
 ## Links
 
